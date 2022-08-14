@@ -1,6 +1,6 @@
 # ColmarAcademy
-Colmar Academy website project from Codecademy.
-The goal of the project was to develop a one-page website for an educational institution, with a responsive design, both for mobile devices and for a computer. This is the final project of the Codeacademy course "How to create websites". The document below has been provided.
+This is the final project of the Codeacademy course "How to create websites".
+The goal of the project was to develop a one-page website for an educational institution, with a responsive design, both for mobile devices and for a computer. The document below has been provided.
 
 You can view the completed project here:
 
